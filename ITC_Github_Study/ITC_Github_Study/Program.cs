@@ -12,7 +12,7 @@ namespace ITC_Github_Study
             m = numInput();
 
             n += m;
-            Console.WriteLine(n);
+            Console.WriteLine("合計は{0}", n);
             Console.Read();
         }
 
