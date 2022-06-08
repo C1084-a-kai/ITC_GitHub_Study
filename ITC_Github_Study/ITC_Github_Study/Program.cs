@@ -12,7 +12,7 @@ namespace ITC_Github_Study
             m = numInput();
 
             n += m;
-            Console.WriteLine(n);
+            Console.WriteLine("足し算の答えは{0}です", 0);
             Console.Read();
         }
 
